@@ -1,0 +1,10 @@
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_pole_1\Úkol_pole_1\bin\Debug\Úkol_pole_1.exe.config
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_pole_1\Úkol_pole_1\bin\Debug\Úkol_pole_1.exe
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_pole_1\Úkol_pole_1\bin\Debug\Úkol_pole_1.pdb
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_pole_1\Úkol_pole_1\obj\Debug\Úkol_pole_1.csproj.AssemblyReference.cache
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_pole_1\Úkol_pole_1\obj\Debug\Úkol_pole_1.Form1.resources
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_pole_1\Úkol_pole_1\obj\Debug\Úkol_pole_1.Properties.Resources.resources
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_pole_1\Úkol_pole_1\obj\Debug\Úkol_pole_1.csproj.GenerateResource.cache
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_pole_1\Úkol_pole_1\obj\Debug\Úkol_pole_1.csproj.CoreCompileInputs.cache
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_pole_1\Úkol_pole_1\obj\Debug\Úkol_pole_1.exe
+C:\Users\janma\OneDrive\Plocha\PRG\Úkol_pole_1\Úkol_pole_1\obj\Debug\Úkol_pole_1.pdb
